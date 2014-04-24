@@ -3,14 +3,14 @@
 Plugin Name: PixatoPress Lite
 Plugin URI: http://PixatoPress.com/
 Description: The ulitmate plugin for creating massive wallpaper sites using WordPress in just minutes.
-Date: 2013, Oct 13
-Author: Kaspar Lenferink
+Date: 2014, Apr 24
+Author: Jorgen Schetters, Kaspar Lenferink
 Author URI: http://PixatoPress.com/
-Version: 1.1
+Version: 1.2
 */
 
 /*
-Author: Kaspar Lenferink
+Author: Jorgen Schetters, Kaspar Lenferink
 Website: http://www.PixatoPress.com
 Copyright 2013-14 Kaspar Lenferink All Rights Reserved.
 */
@@ -85,6 +85,7 @@ function pixato_home_page() {
 
 ?>
 <div class="wrap">
+<h2></h2>
 
 <form action="" method="POST">
 
