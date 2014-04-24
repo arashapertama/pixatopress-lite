@@ -4,6 +4,7 @@
 function pixato_settings_page() {
 ?>
 <div class="wrap">
+<h2></h2>
 
 <div id="poststuff" class="metabox-holder">
 	<img src="<?php echo PX_URL . '/images/pixatopresslite.png'; ?>" title="Pixato Press Lite" />

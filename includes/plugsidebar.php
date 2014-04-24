@@ -12,9 +12,9 @@
 				<div class="inside">
 					<a class="px_button px_pluginHome" href="http://pixatopress.com/" target="_blank">Plugin Homepage</a>
 					<a class="px_button px_pluginHome" href="http://pixatopress.com/contact-us/" target="_blank">Suggest a Feature</a>
-					<a class="px_button px_pluginSupport" href="http://pixatopress.com/contact-us/" target="_blank">Support Discussions</a>
+					<a class="px_button px_pluginSupport" href="http://wordpress.org/support/plugin/pixatopress-lite" target="_blank">Support Discussions</a>
 					<a class="px_button px_pluginBugs" href="http://pixatopress.com/contact-us/" target="_blank">Report a Bug</a>
-					<a class="px_button px_pluginReview" href="http://pixatopress.com/contact-us/" target="_blank">Submit Review</a>
+					<a class="px_button px_pluginReview" href="http://wordpress.org/support/view/plugin-reviews/pixatopress-lite" target="_blank">Submit Review</a>
 					<a class="px_button px_donatePayPal" href="http://pixatopress.com/donate/" target="_blank">Donate with PayPal</a>
 				</div>
 			</div>
@@ -24,6 +24,7 @@
 				<div class="inside">
 					<a href="https://www.facebook.com/PixatoPress" target="_blank"><img src="<?php echo PX_URL; ?>/images/facebook.png" /></a>
 					<a href="https://twitter.com/PixatoPress" target="_blank"><img src="<?php echo PX_URL; ?>/images/twitter.png" /></a>
+					<a href="https://www.youtube.com/channel/UC37F1JoxkGU9kwhWjfwAvhQ" target="_blank"><img src="<?php echo PX_URL; ?>/images/youtube.png" /></a>
 				</div>
 			</div>
 

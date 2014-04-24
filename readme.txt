@@ -1,11 +1,11 @@
 === Plugin Name ===
-Contributors: Kaspar Lenferink
+Contributors: Jorgen Schetters, Kaspar Lenferink
 Donate link: http://pixatopress.com/donate/
 Support: support@pixatopress.com
 Tags: wallpapers, pictures, wallpaper gallery, wallpaper site, image
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.1
+Tested up to: 3.9
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,18 @@ For more details please visit http://pixatopress.com/
 
 PixatoPress is designed to be working perfectly with any WordPress theme so there is no special requirements. However, the PixatoPress Pro version comes with two premium wallpaper gallery theme for WordPress which can maximize your site's potential.
 
+= Wallpapers are not showing on my site! =
+
+The wallpapers are added as featured image so if the theme you are using doesn’t support featured image, the wallpapers will not show up on your site. We recommend every PixatoPress Lite users to install custom themes provide by http://pixatopress.com.
+
+= Does PixatoPress run without WordPress? =
+
+You must understand that PixatoPress is a WordPress plugin and it works on WordPress CMS only.
+
+= Is there any special requirements for PixatoPress? =
+
+PixatoPress doesn’t require anything special and ready to run on any web hosting that offers PHP/MySQL and WordPress installation. Remember, as you are going to host thousands of wallpapers which will require huge space on your web server. Also for a large amount of content and visitors, you must make sure your web hosting has enough processing power and bandwidth.
+
 
 == Screenshots ==
 
@@ -49,10 +61,10 @@ PixatoPress is designed to be working perfectly with any WordPress theme so ther
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * CSS bug fixes
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
 This version fixes a CSS related bug.  Upgrade immediately.
